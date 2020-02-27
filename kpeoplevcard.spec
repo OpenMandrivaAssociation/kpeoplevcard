@@ -15,6 +15,7 @@ BuildRequires: cmake(KF5People)
 BuildRequires: cmake(KF5CoreAddons)
 BuildRequires: cmake(Qt5Core)
 BuildRequires: cmake(Qt5Gui)
+BuildRequires: cmake(Qt5Widgets)
 
 %description
 VCard reading support for KPeople
