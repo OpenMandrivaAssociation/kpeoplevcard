@@ -2,7 +2,7 @@
 
 Name:		kpeoplevcard
 Version:	0.1
-Release:	5
+Release:	6
 Source0: http://download.kde.org/%{stable}/kpeoplevcard/%{version}/%{name}-%{version}.tar.xz
 Summary: VCard reading support for KPeople
 URL: http://kde.org/
