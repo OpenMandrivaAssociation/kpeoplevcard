@@ -5,7 +5,7 @@ Version:	0.1
 Release:	6
 Source0: http://download.kde.org/%{stable}/kpeoplevcard/%{version}/%{name}-%{version}.tar.xz
 Summary: VCard reading support for KPeople
-URL: http://kde.org/
+URL: https://kde.org/
 License: GPL
 Group: System/Libraries
 BuildRequires: cmake(ECM)
